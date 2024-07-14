@@ -1,0 +1,26 @@
+.one-button{
+  background-color: rgb(54, 156, 28);
+  color: white;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border:none;
+  margin-right: 8px;
+  margin-left: 8px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  transition: padding-left 0.15s,
+  padding-right 0.15s,
+  margin-right 0.15s,
+  margin-left 0.15s;
+}
+
+.one-button:hover{
+  padding-left: 35px;
+  padding-right: 35px;
+  margin-left: 0px;
+  margin-right: 0px;
+
+}

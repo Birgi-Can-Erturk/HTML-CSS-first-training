@@ -1,0 +1,32 @@
+.punch-button{
+  background-color: rgb(228, 14, 121);
+  color:blueviolet;
+  border: none;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 31px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  margin-left: 8px;
+  transition: background-color 1s,
+     padding 3s;
+  vertical-align: top;
+  
+}
+
+.punch-button:hover{
+
+background-color: rgb(42, 165, 144);
+color:black
+}
+
+.punch-button:active{
+opacity: 0.5;
+padding-top: 18px;
+padding-bottom: 18px;
+padding-left: 32px;
+padding-right: 32px;
+}

@@ -1,0 +1,30 @@
+.model-text{
+  font-size: 50px;
+  font-weight: bold;
+  font-family: arial;
+  text-align: center;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+.order-text{
+  text-align: center;
+  margin-top: 20px;
+  font-size: 30px;
+  font-weight: bold;
+
+}
+
+.delivery-text{
+  text-decoration: underline;
+  cursor: pointer;
+  color: red;
+}
+
+.delivery-text:hover{
+  color: blue;
+}
+
+.delivery-text:active{
+  opacity: 0.44;
+}
