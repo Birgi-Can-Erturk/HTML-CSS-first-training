@@ -1,0 +1,49 @@
+.border-text{
+  border-width: 1px;
+  background-color: rgb(247, 242, 242);
+  border-color: rgb(247, 242, 242);
+  width: 150px;
+  height: 177px;
+}
+.cat-img{
+  width: 150px;
+  height: 100px;
+  object-fit: cover;
+}
+.oliver-text{
+  margin-top: 2px;
+  margin-bottom: 0px;
+  margin-left: 2px;
+  margin-right: 0px;
+  font-family: arial;
+  font-size: 12px;
+}
+.friends-text{
+  color: gray;
+  margin-top: 4px;
+  margin-bottom: 0px;
+  margin-left: 2px;
+  margin-right: 0px;
+  font-family: arial;
+  font-size: 9px;
+}
+.button-bar{
+  background-color: rgba(35, 35, 223, 0.822);
+  border: none;
+  color: white;
+  border-radius: 5px;
+  padding-left: 4px;
+  padding-bottom: 5px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-left: 2px;
+  font-size: 10px;
+}
+.button-bar:hover{
+  background-color: red;
+}
+.button-bar:active{
+  opacity: 0.55;
+}

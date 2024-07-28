@@ -1,3 +1,23 @@
-p{
-  font-family: arial;
+.border-text{
+  background-color: rgb(41, 40, 40);
+  border-color: rgba(205, 30, 228, 0.863);
+  border-width: 1px;
+  width: 350px;
+  padding-left: 15px;
+  padding-bottom: 20px;
+  border-style: solid;
+
+}
+.music-text{
+  color: rgb(204, 14, 14);
+}
+.music-text:hover{
+  cursor: pointer;
+}
+.music-text:active{
+  color: blue;
+}
+.add-text{
+  color: grey;
+  width: 330px;
 }
