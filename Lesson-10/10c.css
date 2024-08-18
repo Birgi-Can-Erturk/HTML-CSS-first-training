@@ -1,0 +1,50 @@
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.container{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.cat-img{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 300px;
+    margin-top: 10px;
+}
+.oliver-text{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: top;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.the-cat-text{
+    color: rgb(94, 93, 93);
+    font-size: 15px;
+    padding-top: 0;
+    padding-right:0 ;
+    padding-left: 10px;
+    padding-bottom: 0;
+}
+.popular-text{
+    color: rgba(95, 95, 95, 0.973);
+    font-size: 15px ;
+    padding-top:0 ;
+    padding-bottom: 0;
+    padding-right:0 ;
+    padding-left: 10px;
+}
+.img-div{
+    display: inline-block;
+}
+.text-div{
+    display: inline-block;
+}
+.button.bar{
+    background-color: rgba(0, 225, 255, 0.712);
+    color: white;
+    border: none;
+    border-style: solid;
+}
