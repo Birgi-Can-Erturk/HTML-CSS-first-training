@@ -1,0 +1,16 @@
+.lightblue{
+    background-color: lightblue;
+    width: 50px;
+}
+.lightblue2{
+    background-color: lightblue;
+    width: 75px;
+}
+.lightpink{
+    background-color: lightpink;
+    flex: 1;
+}
+.flexbox{
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,230 @@
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+.oliver-img{
+    width: 80px;
+    height: 80px;
+    border-radius: 75px;
+    object-fit: cover;
+}
+.oliver-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.oliver-text-2{
+    color: rgb(128, 128, 128);
+}
+.oliver-text-3{
+    color: grey;
+}
+.follow-button{
+    background-color: rgba(0, 140, 255, 0.952);
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-left: 80px;
+    margin-top: 30px;
+    transition: 0.5s;
+}
+.follow-button:hover{
+    background-color: blue;
+    color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.follow-button:active{
+    opacity: 0.55;
+    transition: 0.1s;
+}
+.img-div{
+    display: inline-block;
+}
+.text-div{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+    margin-left: 8px;
+}
+.button-div{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 50px;
+}
+.span-red{
+    color: red;
+}
+.span-red:hover{
+    cursor: pointer;
+}
+
+
+
+
+
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+.mimi-img{
+    width: 80px;
+    height: 80px;
+    border-radius: 75px;
+    object-fit: cover;
+}
+.mimi-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.mimi-text-2{
+    color: rgb(128, 128, 128);
+}
+.mimi-text-3{
+    color: grey;
+}
+.follow-button{
+    background-color: rgba(0, 140, 255, 0.952);
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-left: 80px;
+    margin-top: 30px;
+    transition: 0.5s;
+}
+.follow-button:hover{
+    background-color: blue;
+    color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.follow-button:active{
+    opacity: 0.55;
+    transition: 0.1s;
+}
+.img-div{
+    display: inline-block;
+}
+.text-div{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+    margin-left: 8px;
+}
+.button-div-2{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 15px;
+}
+.span-red{
+    color: red;
+}
+.span-red:hover{
+    cursor: pointer;
+}
+
+
+
+
+
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+.rex-img{
+    width: 80px;
+    height: 80px;
+    border-radius: 75px;
+    object-fit: cover;
+}
+.rex-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.rex-text-2{
+    color: rgb(128, 128, 128);
+}
+.rex-text-3{
+    color: grey;
+}
+.follow-button{
+    background-color: rgba(0, 140, 255, 0.952);
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-left: 80px;
+    margin-top: 30px;
+    transition: 0.5s;
+}
+.follow-button:hover{
+    background-color: blue;
+    color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.follow-button:active{
+    opacity: 0.55;
+    transition: 0.1s;
+}
+.img-div{
+    display: inline-block;
+}
+.text-div{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+    margin-left: 8px;
+}
+.button-div-3{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 5px;
+}
+.span-red{
+    color: red;
+}
+.span-red:hover{
+    cursor: pointer;
+}
+
+
+
+
+.general-div{
+    display: inline-block;
+}
+
+.general-div-2{
+    display:block;
+    margin-top: 15px;
+}
+
+.general-div-3{
+    display:block;
+    margin-top: 15px;
+}

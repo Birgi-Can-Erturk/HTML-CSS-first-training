@@ -1,0 +1,9 @@
+.right-section{
+    background-color: green;
+    color: white;
+    position: fixed;
+    width: 100px;
+    height: 2000px;
+    right: 0px;
+    top: 0px;
+}

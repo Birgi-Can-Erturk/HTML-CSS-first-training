@@ -1,0 +1,86 @@
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    column-gap: 20px;
+}
+.oliver-img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 15px;
+    vertical-align: top;
+}
+.oliver-text{
+    font-size: 20px;
+}
+.oliver-div{
+    background-color: lightcyan;
+}
+.mimi-div{
+    background-color: lightcyan;
+}
+.rex-div{
+    background-color: lightcyan;
+}
+.mimi-text{
+    font-size: 20px;
+}
+.rex-text{
+    font-size: 20px;
+}
+.mimi-img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 15px;
+    vertical-align: top;
+}
+.rex-img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 15px;
+    vertical-align: top;
+}
+.dog-friend{
+    width: 28px;
+    height: 28px;
+    object-fit: cover;
+    border-radius: 25px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.dog-div{
+    display: grid;
+    grid-template-columns: 35px 1fr;
+    align-items: center;
+    margin-left: 8px;
+    margin-bottom: 10px;
+}
+.add-text{
+    color: rgba(151, 143, 143, 0.788);
+    cursor: pointer;
+    margin-top: 10px;
+}
+.add-button{
+    background-color: rgba(100, 28, 194, 0.808);
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    border: none;
+    margin-top: 5px;
+    cursor: pointer;
+}
+.add-button:hover{
+    background-color: lightpink;
+    color: white;
+}
+.add-button:active{
+    background-color: lightcoral;
+    color: greenyellow;
+}

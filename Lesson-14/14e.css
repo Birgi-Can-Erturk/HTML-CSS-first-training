@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    flex-direction: row;
+
+}
+.oliver-img{
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 37px;
+}
+.oliver-text{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}
+.all-channel{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.add-button{
+    margin-top: 30px;
+    background-color: aqua;
+    color: white;
+    border: none;
+    border-radius: 27px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.message-button{
+    background-color: rgba(0, 255, 85, 0.438);
+    color: rgb(141, 87, 7);
+    border: none;
+    border-radius: 27px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}

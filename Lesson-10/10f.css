@@ -1,0 +1,267 @@
+.all-channel{
+    background-color: bisque;
+    border-width: 1px;
+    border-color: bisque;
+    width: 200px;
+    display: inline-block;
+}
+.channel-picture-div{
+    display:block;
+    margin-top: 0px;
+    margin-bottom: 0px
+}
+.channel-picture{
+    width: 200px;
+}
+.profile-picture-div{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.profile-picture{
+    width: 30px;
+    height: 28px;
+    border-radius: 70px;
+    object-fit: cover;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 5px;
+    vertical-align: top;
+}
+.text-div{
+    display:block;
+    margin-top: 0px;
+    margin-bottom: 0px
+}
+.text-div-2{
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.oliver-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.add-text{
+    color: grey;
+    cursor: pointer;
+    margin-left: 4px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+    vertical-align: top;
+}
+.button-div{
+    display: block;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.add-button{
+    background-color: rgba(0, 119, 255, 0.808);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    transition: 0.3s;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+.add-button:hover{
+    background-color: rgb(197, 74, 74);
+    color: black;
+}
+.add-button:active{
+    opacity: 0.55;
+}
+
+
+
+
+
+
+.all-channel-2{
+    background-color: bisque;
+    border-width: 1px;
+    border-color: bisque;
+    width: 200px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.channel-picture-div-2{
+    display:block;
+    margin-top: 0px;
+    margin-bottom: 0px
+}
+.channel-picture-2{
+    width: 200px;
+    height: 145px;
+}
+.profile-picture-div-2{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.profile-picture-2{
+    width: 30px;
+    height: 28px;
+    border-radius: 70px;
+    object-fit: cover;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 5px;
+    vertical-align: top;
+}
+.text-div{
+    display:block;
+    margin-top: 0px;
+    margin-bottom: 0px
+}
+.text-div-2{
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.mimi-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.add-text-2{
+    color: grey;
+    cursor: pointer;
+    margin-left: 4px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+    vertical-align: top;
+}
+.button-div-2{
+    display: block;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.add-button-2{
+    background-color: rgba(0, 119, 255, 0.808);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    transition: 0.3s;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+.add-button-2:hover{
+    background-color: rgb(197, 74, 74);
+    color: black;
+}
+.add-button-2:active{
+    opacity: 0.55;
+}
+
+
+
+
+
+
+
+
+.all-channel-3{
+    background-color: bisque;
+    border-width: 1px;
+    border-color: bisque;
+    width: 200px;
+    display: inline-block;
+}
+.channel-picture-div-3{
+    display:block;
+    margin-top: 0px;
+    margin-bottom: 0px
+}
+.channel-picture-3{
+    width: 200px;
+    height: 145px;
+}
+.profile-picture-div-3{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.profile-picture-3{
+    width: 30px;
+    height: 28px;
+    border-radius: 70px;
+    object-fit: cover;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 5px;
+    vertical-align: top;
+}
+.text-div{
+    display:block;
+    margin-top: 0px;
+    margin-bottom: 0px
+}
+.text-div-2{
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.rex-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.add-text-3{
+    color: grey;
+    cursor: pointer;
+    margin-left: 4px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+    vertical-align: top;
+}
+.button-div-3{
+    display: block;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.add-button-3{
+    background-color: rgba(0, 119, 255, 0.808);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    transition: 0.3s;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+.add-button-3:hover{
+    background-color: rgb(197, 74, 74);
+    color: black;
+}
+.add-button-3:active{
+    opacity: 0.55;
+}

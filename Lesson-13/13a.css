@@ -1,0 +1,23 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+}
+.lightblue{
+    background-color: lightblue;
+    width: 200px;
+
+}
+.lightpink{
+    background-color: lightpink;
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+.cloumns{
+    background-color: black;
+    color: white;
+}

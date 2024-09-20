@@ -1,0 +1,185 @@
+.border-text{
+    border-width: 1px;
+    background-color: rgb(247, 242, 242);
+    border-color: rgb(247, 242, 242);
+    width: 150px;
+    height: 177px;
+    display: inline-block;
+    margin-right: 8px;
+  }
+  .cat-img{
+    width: 150px;
+    height: 100px;
+    object-fit: cover;
+  }
+  .oliver-text{
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-left: 2px;
+    margin-right: 0px;
+    font-family: arial;
+    font-size: 12px;
+  }
+  .friends-text{
+    color: gray;
+    margin-top: 4px;
+    margin-bottom: 0px;
+    margin-left: 2px;
+    margin-right: 0px;
+    font-family: arial;
+    font-size: 9px;
+    cursor: pointer;
+  }
+  .friends-text:hover{
+    color: black;
+  }
+  .button-bar{
+    background-color: rgba(35, 35, 223, 0.822);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding-left: 4px;
+    padding-bottom: 5px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 2px;
+    font-size: 10px;
+  }
+  .button-bar:hover{
+    background-color: red;
+  }
+  .button-bar:active{
+    opacity: 0.55;
+  }
+  
+  
+  
+  
+  .border-text-2{
+    border-width: 1px;
+    background-color: rgb(247, 242, 242);
+    border-color: rgb(247, 242, 242);
+    width: 150px;
+    height: 177px;
+    display: inline-block;
+    margin-right: 8px;
+  }
+  .cat-img-2{
+    width: 150px;
+    height: 100px;
+    object-fit: cover;
+  }
+  .oliver-text-2{
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-left: 2px;
+    margin-right: 0px;
+    font-family: arial;
+    font-size: 12px;
+  }
+  .friends-text-2{
+    color: gray;
+    margin-top: 4px;
+    margin-bottom: 0px;
+    margin-left: 2px;
+    margin-right: 0px;
+    font-family: arial;
+    font-size: 9px;
+    cursor: pointer;
+  }
+  .friends-text-2:hover{
+    color: black;
+  }
+  .button-bar-2{
+    background-color: rgba(35, 35, 223, 0.822);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding-left: 4px;
+    padding-bottom: 5px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 2px;
+    font-size: 10px;
+  }
+  .button-bar-2:hover{
+    background-color: red;
+  }
+  .button-bar-2:active{
+    opacity: 0.55;
+  }
+  
+  
+  
+  
+  
+  
+  .border-text-3{
+    border-width: 1px;
+    background-color: rgb(247, 242, 242);
+    border-color: rgb(247, 242, 242);
+    width: 150px;
+    height: 177px;
+    display: inline-block;
+  }
+  .cat-img-3{
+    width: 150px;
+    height: 100px;
+    object-fit: cover;
+  }
+  .oliver-text-3{
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-left: 2px;
+    margin-right: 0px;
+    font-family: arial;
+    font-size: 12px;
+  }
+  .friends-text-3{
+    color: gray;
+    margin-top: 4px;
+    margin-bottom: 0px;
+    margin-left: 2px;
+    margin-right: 0px;
+    font-family: arial;
+    font-size: 9px;
+    cursor: pointer;
+  }
+  .friends-text-3:hover{
+    color: black;
+  }
+  .button-bar-3{
+    background-color: rgba(35, 35, 223, 0.822);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding-left: 4px;
+    padding-bottom: 5px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 2px;
+    font-size: 10px;
+  }
+  .button-bar-3:hover{
+    background-color: red;
+  }
+  .button-bar-3:active{
+    opacity: 0.55;
+  }
+
+
+  .text-div{
+    display: inline-block;
+  }
+  .text-div-2{
+    display: inline-block;
+  }
+  .text-div-3{
+    display: inline-block;
+  }

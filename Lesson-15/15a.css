@@ -1,0 +1,15 @@
+.button{
+    position: absolute;
+    background-color: black;
+    color: white;
+    top: 15px;
+    right: 15px;
+    font-family: arial;
+    font-size: 20px;
+    width: 45px;
+    height: 45px;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
